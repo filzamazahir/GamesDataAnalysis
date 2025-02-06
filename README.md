@@ -8,7 +8,7 @@ Analyzed data from an online store Ice that sells video games all over the world
 git clone https://github.com/filzamazahir/GamesDataAnalysis.git
 ```
 Make sure to have pandas, numpy, scikit-learn, and matplotlib libraries installed.
-```
+
 Run ```gamesdataanalysis.ipynb```
 
 ## Results
